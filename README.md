@@ -1,5 +1,5 @@
 # ImageGallery
-Image gallery app made with Java Spring, AWS S3, Docker, ReactJS, JPA,  JDBC, postgreSQL
+Image gallery app made with Java Spring, AWS S3, Docker, ReactJS, JPA, JWT, JDBC, PostgreSQL
 
 ![Screen Shot 2023-05-07 at 12 21 54](https://user-images.githubusercontent.com/33273035/236674672-56e8dbdb-82c8-47f8-a51d-f5f62f27b0f4.png)
 
